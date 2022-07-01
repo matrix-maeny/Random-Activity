@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Random Activity</string>
+    <string name="refresh">Refresh</string>
+    <string name="about">About</string>
+    <string name="about_app">Hi, I\'m Matrix.\n\nThis app suggests you an activity when you bored.\n\nIt will suggests you a various types of activities to you or to do them with oyu friends.\n\nIt will give data about that activity.\n\nGives number of participants, type of activity.\n\nTo get another random activity, press the refresh icon at top right corner of the toolbar.\n\n\nSerial no: 34\nDate of creation: 5 May 2022\nContact us: matrixinventions@gmail.com</string>
+</resources>
